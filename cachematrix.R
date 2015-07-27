@@ -2,7 +2,7 @@
 ## Matrix inversion can be a costly computation.  Some benefit may be derived by caching the
 ## inverse of a matrix rather than computing it repeatedly.  The functions below cache the 
 ## inverse of a matrix.
-##
+
 
 ## This function creates a special "matrix" object that can cache its inverse
 
